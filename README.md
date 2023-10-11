@@ -6,6 +6,7 @@ C Calculator:
 - Binary
 - Function Pointers
 - GDB
+- Bitwise Operations
 
 
 
